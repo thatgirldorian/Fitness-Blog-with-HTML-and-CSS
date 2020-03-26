@@ -1,7 +1,7 @@
 # Fitness-Blog-with-HTML
 
 <h3>Function & Description:</h3>
-This is a simple fitness blog layout that I made with only HTML. It's called Get Fit With Tobi and has a couple of blog posts.
+This is a simple fitness blog layout that I made with only HTML. It's called Get Fit with Tobi and has a couple of blog posts.
 
 <h3>Challenge faced:</h3>
 
