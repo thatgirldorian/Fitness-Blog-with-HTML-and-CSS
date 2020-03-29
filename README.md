@@ -12,7 +12,7 @@ This is a simple fitness blog layout that I made with only HTML. It's called Get
 - Netlify
 
 <h3>Link to site:</h3>
-
+https://awesome-williams-fd3a78.netlify.com/
 
 <h3>Screenshot:</h3>
 
